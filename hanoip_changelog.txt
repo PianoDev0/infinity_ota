@@ -1,6 +1,2 @@
-=== Project Infinity-X 3.12 (16.10.2026) ===
-- Initial OTA release from PianoDev0
-- Motorola G60 (hanoip) official/unofficial support
-- Fixed HWC overlay and screen flickering definitively
-- Enabled persistent ADB debugging
-- Upstream security and stability improvements
+=== Project Infinity-X 3.12 (17.10.2026) ===
+- Fix OTA Updater
