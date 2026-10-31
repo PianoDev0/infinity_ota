@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "filename": "Project_Infinity-X-3.12-hanoip-17.10.2026-GAPPS-UNOFFICIAL.zip",
-            "download": "https://github.com/PianoDev0/infinity_ota/releases/download/v3.12-17.10.2026/Project_Infinity-X-3.12-hanoip-17.10.2026-GAPPS-UNOFFICIAL.zip",
-            "timestamp": 1792241567,
-            "md5": "f0018e4734a3982e2ea926f9e7f8b5ea",
-            "size": 1674501458,
-            "version": "3.12"
+            "filename": "Project_Infinity-X-4.1-hanoip-31.10.2026-GAPPS-UNOFFICIAL.zip",
+            "download": "https://github.com/PianoDev0/infinity_ota/releases/download/v4.1-31.10.2026/Project_Infinity-X-4.1-hanoip-31.10.2026-GAPPS-UNOFFICIAL.zip",
+            "timestamp": 1793458965,
+            "md5": "4475b415b45b5d328fcb267b25c7ce9a",
+            "size": 2099758846,
+            "version": "4.1"
         }
     ]
 }
